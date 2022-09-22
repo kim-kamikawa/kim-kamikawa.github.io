@@ -1,5 +1,7 @@
 # HTML/CSS/JavaScript SBA
 kim-kamikawa.github.io
+## Description
+This is a simple 3-page website simulating a pet adoption site fulfilling the technical requirements below. The first page requires an email address to enter the site. The second page allows the user to filter adoption options by species and gender. The third page is an about page.
 ## Technical Requirements:
 ### HTML
 - Have at least 3 pages, keep the grid system consistent as much as possible
