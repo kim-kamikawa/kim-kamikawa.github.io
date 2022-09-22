@@ -4,33 +4,41 @@
 <meta charset="UTF-8">
 <link rel="stylesheet" href="css/stylesheet.css">
 <title>Paw Portal</title>
+<link rel="icon" type="image/x-icon" href="images/favicon.ico">
 <style>
+#gif {
+	display: block;
+	margin: auto;
+}
 </style>
 </head>
 <body>
 	<div id="logoHeader">
-		<img src="images/pawIcon.webp" alt="Paw and Heart Icon" id="logo">
+		<img src="images/logo.png" alt="Paw and Heart Icon" id="logo">
 		<h1 id="companyName">Paw Portal</h1>
 	</div>
 	<ul>
-		<li><a href="adopt.html">Adopt</a></li>
-		<li><a href="about.html">About</a></li>
-	</ul>		
+		<li><a>Adopt</a></li>
+		<li><a>About</a></li>
+	</ul>
 	<div id="entryFormContainer">
 		<form action="adopt.html" id="entryForm">
 			<div>
-				<label for="email">Please enter your email address to enter	our site:</label>
-			</div> 
+				<label for="email">Please enter your email address to enter
+					our site:</label>
+			</div>
 			<div>
-				<input type="text" id="email" name="email" placeholder="abc@def.com" required> 
+				<input type="text" id="email" name="email" placeholder="abc@def.com"
+					required autofocus>
 			</div>
 			<div>
 				<input type="submit" id="submitBtn" value="Submit">
 			</div>
 		</form>
 	</div>
-	<div>
-		<img src="images/giphy.gif" alt="Animated Cartoon of Dog Licking Cat" id="gif">
+	<div id="gif">
+		<img src="images/giphy.gif" alt="Animated Cartoon of Dog Licking Cat"
+			id="gif">
 	</div>
 	<script src="js/entry.js"></script>
 </body>
