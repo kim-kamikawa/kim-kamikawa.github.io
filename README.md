@@ -30,6 +30,7 @@ This is a simple 3-page website simulating a pet adoption site fulfilling the te
 - https://unsplash.com/photos/Sg3XwuEpybU (dog with flower)
 - https://unsplash.com/photos/nKC772R_qog (kitten)
 - https://unsplash.com/photos/Dl39g6QhOIM (cat)
+- https://www.vecteezy.com/video/1622736-cute-puppy-baby-dog-playing-in-the-green-park (video)
 ### Text
 - https://www.lipsum.com/
 ### Favicon Generator
